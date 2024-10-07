@@ -1,0 +1,1 @@
+# plugins-woo-sofortuberweisung-gateway
